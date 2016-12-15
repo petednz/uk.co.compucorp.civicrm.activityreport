@@ -12,7 +12,7 @@ Go to
 
 and install Activity Report (uk.co.compucorp.civicrm.activityreport) extension.
 
-No additional steps are required.
+No additional steps are required (other than checking Permissions are set for CiviCRM Reports: access CiviCRM pivot table reports)
 
 Usage
 ------
